@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdelete",
+        "uuid": 4629100,
+        "checksum": "s7kfrb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
